@@ -1,0 +1,41 @@
+body {
+
+  background-color: #3089cec2;
+  background-image: url("../img/back-pattern.png");
+ 
+
+  color: #444444;
+}
+
+.card {
+  
+  background-image: url("../img/cardboard-flat.png");
+  
+}
+.card-text {
+  text-align: justify;
+}
+
+/* Fade-in */
+.fade-in {
+  opacity: 1;
+  animation-name: fadeInOpacity;
+  animation-iteration-count: 1;
+  animation-timing-function: ease-in;
+  animation-duration: 1s;
+}
+
+@keyframes fadeInOpacity {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+/* Fade-in */
+
+
+
