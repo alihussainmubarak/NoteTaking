@@ -1,4 +1,4 @@
-# note-taking
+# NoteTaking
 Note-taking in OOP
 
 - Written in Object Oriented PHP and (PDO) PHP Data Objects
